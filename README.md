@@ -1,6 +1,6 @@
 ### Hello There! 
 
-Welcome to my github profile!
+Welcome to my GitHub profile!
 
 [![My Awesome Stats](https://awesome-github-stats.azurewebsites.net/user-stats/PrasannaPulakurthi?cardType=level&theme=github-dark&preferLogin=false)](https://git.io/awesome-stats-card)
 
